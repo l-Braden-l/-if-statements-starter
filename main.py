@@ -3,7 +3,7 @@
 #Station Rotation
 
 #task 1
-superheros = ['super man','spider man','iron man','wolverine']
+superheros = ['super man','spider man','iron man','wolverine','captain america','thor']
 fav_superheros = 'spider man'
 if fav_superheros in superheros:
       print('your favorite super hero is spider man!')
